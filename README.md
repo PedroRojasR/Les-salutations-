@@ -1,11 +1,11 @@
-# Les-salutations-
+# Les Salutations
 Regarder les différents types de salutations en francais. 
 
 [![sal1.jpg](https://i.postimg.cc/GmRL9T06/sal1.jpg)](https://postimg.cc/CzvTQ1x4)
 # Définition 
 Les salutations servent pour introduire une conversation, saluer et prendre congé d’une ou des personnes. 
 [![sal2.jpg](https://i.postimg.cc/Vsb4kdWq/sal2.jpg)](https://postimg.cc/7bwSBPch) 
-# Les-Salutations-en-Français-1
+# Les Salutations en Français 1
 [![sal3.jpg](https://i.postimg.cc/25h85d3p/sal3.jpg)](https://postimg.cc/R3CzsHcG)
 BONJOUR - BUENOIS DÍAS 
 
@@ -17,7 +17,7 @@ BONSOIR - BUENAS NOCHES  /  BONNE NUIT - BUENAS NOCHES
 
 Attention : Nous utilisons "bonne nuit" seulement quand nous allons dormir ou se cocher. 
 Atención: Nosotros usaremos "bonne nuit" solamente cuando vamos a dormir o a irnos a la cama.  
-# Les-Salutations-en-Français-2
+# Les-Salutations en Français 2
 PRENDRE CONGÉ:
 AU REVOIR= ADIÓS
 
@@ -64,7 +64,7 @@ COMME CI COMME ÇA= MÁS O MENOS.
 ET VOUS ?= ¿Y USTED?
 
 ET TOI ?= ¿Y TÚ?!
-# Ressources-pour-pratiquer-plus-les-salutations 
+# Ressources pour pratiquer plus les salutations 
 Vocabulaire des salutations et ses audios
 
 https://www.frenchspanishonline.com/francesprincipiantes/escuela/salutations/saludos.html
@@ -84,7 +84,7 @@ https://learningapps.org/watch?v=pist1b7xn
 https://learningapps.org/watch?v=pykbexzh218
 
 https://learningapps.org/watch?v=pn6xwkk9j01
-# Expression-d'aujourd'hui
+# Expression d'aujourd'hui
 C'EST DU GÂTEAU - ES PAN COMIDO 
 
 [![sal8.gif](https://i.postimg.cc/SNNzTKx0/sal8.gif)](https://postimg.cc/F18R1NSG)
