@@ -18,7 +18,7 @@ BONSOIR - BUENAS NOCHES  /  BONNE NUIT - BUENAS NOCHES
 Attention : Nous utilisons "bonne nuit" seulement quand nous allons dormir ou se cocher. 
 Atención: Nosotros usaremos "bonne nuit" solamente cuando vamos a dormir o a irnos a la cama.  
 # Les-Salutations en Français 2
-PRENDRE CONGÉ:
+*PRENDRE CONGÉ*
 AU REVOIR= ADIÓS
 
 BONNE JOURNÉE= BUEN DÍA
@@ -37,7 +37,8 @@ BONNE SOIRÉE= BUENA TARDE
 
 ADIEU (NÉGATIF)= ADIÓS (DRAMÁTICO O DEFINITIVO)
 
-LES SALUTATIONS INFORMELLE
+
+*LES SALUTATIONS INFORMELLE*
 
 SALUT != ¡HOLA!
 
@@ -45,7 +46,8 @@ COUCOU !=¡HOLA!
 
 QUOI DE NEUF ?= ¿QUÉ HAY DE NUEVO?
 
-D’AUTRES SALUTATIONS
+
+*D’AUTRES SALUTATIONS*
 
 COMMENT ALLEZ-VOUS ?= ¿CÓMO LE  VA A USTED?
 
